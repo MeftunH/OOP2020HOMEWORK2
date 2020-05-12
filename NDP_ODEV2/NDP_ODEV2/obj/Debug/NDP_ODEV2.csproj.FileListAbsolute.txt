@@ -1,0 +1,9 @@
+C:\Users\MAFTUN\source\repos\NDP_ODEV2\NDP_ODEV2\bin\Debug\NDP_ODEV2.exe.config
+C:\Users\MAFTUN\source\repos\NDP_ODEV2\NDP_ODEV2\bin\Debug\NDP_ODEV2.exe
+C:\Users\MAFTUN\source\repos\NDP_ODEV2\NDP_ODEV2\bin\Debug\NDP_ODEV2.pdb
+C:\Users\MAFTUN\source\repos\NDP_ODEV2\NDP_ODEV2\obj\Debug\NDP_ODEV2.csprojAssemblyReference.cache
+C:\Users\MAFTUN\source\repos\NDP_ODEV2\NDP_ODEV2\obj\Debug\NDP_ODEV2.Form1.resources
+C:\Users\MAFTUN\source\repos\NDP_ODEV2\NDP_ODEV2\obj\Debug\NDP_ODEV2.Properties.Resources.resources
+C:\Users\MAFTUN\source\repos\NDP_ODEV2\NDP_ODEV2\obj\Debug\NDP_ODEV2.csproj.GenerateResource.cache
+C:\Users\MAFTUN\source\repos\NDP_ODEV2\NDP_ODEV2\obj\Debug\NDP_ODEV2.exe
+C:\Users\MAFTUN\source\repos\NDP_ODEV2\NDP_ODEV2\obj\Debug\NDP_ODEV2.pdb
